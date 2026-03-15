@@ -98,6 +98,7 @@ cd backend
 ```
 
 2. Activate your virtual environment (if not already activated)
+venv\Scripts\activate
 
 3. Run the Flask application:
 ```bash
